@@ -14,4 +14,4 @@ Remark: comments in the code will be written in Russian
 [main](main.ipynb) - The main code of the program is presented in this notebook. I conducted exploratory data analysis, encoding categorical features using DictVectorizer from the sklearn library. I used a ready-made implementation of the logistic regression model from the sklearn library - LogisticRegression.
 
 ## Result
-The trained model was tested on a dedicated test data set and showed 81% accuracy.
+The trained model was tested on a dedicated test data set and showed 82% accuracy.
